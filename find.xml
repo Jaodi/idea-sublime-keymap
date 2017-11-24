@@ -14,17 +14,17 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>.</mask>
       <mask>.j</mask>
       <mask>.ja</mask>
       <mask>.jav</mask>
       <mask>.java</mask>
       <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
